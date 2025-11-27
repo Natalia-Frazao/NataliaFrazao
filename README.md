@@ -35,15 +35,15 @@ Me chamo Natália,Graduada em Tecnologia em Sistemas para Internet no Instituto 
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
+    height="300" 
+    style="padding-right: 12px;" 
     src="https://github-readme-stats.vercel.app/api?username=NataliaFrazao&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="300" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaFrazao&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
